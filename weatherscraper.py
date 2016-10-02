@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 24 14:53:17 2016
+
+@author: eshope
+"""
+
 # Scrape weather data using requests and BeautifulSoup
 
 # Import Libraries
@@ -7,7 +14,7 @@ import csv
 
 # Create arrays for months and years we want to scrape
 months = [i+1 for i in range(12)]
-years = [2011, 2012, 2013, 2014, 2015]
+years = [i for i in range(2000,2017)]
 
 # Define Weather function that scrapes the weather data
 def Weather():
@@ -20,12 +27,14 @@ def Weather():
     # Write in Heading
     weatherwriter.writerow(['Year', 'Month', 'Day of Month', 'High Temp', 'Avg Temp', 'Low Temp', 'High Dew', 'Avg Dew', 'Low Dew', 
                             'High Humidity', 'Avg Humidity', 'Low Humidity', 'High SLP', 'Avg SLP', 'Low SLP', 
-                            'High Vis', 'Avg Vis', 'Low Vis', 'High Wind', 'Avg Wind', 'Low Wind', 
+                            'High Vis', 'Avg Vis', 'Low Vis', 'High Wind', 'Avg Wind', 'Max Gust', 
                             'Precip', 'Events'])
     
     # Loop through the months and years & scrape and write the data into the CSV
     for year in years: 
         for month in months: 
+            if year == 2016 and month > 6:
+                break
             url = "https://www.wunderground.com/history/airport/KDCA/" + str(year) + "/" + str(month) + "/1/MonthlyHistory.html"
             page = requests.get(url)
             soup = BeautifulSoup(page.text, "lxml")
