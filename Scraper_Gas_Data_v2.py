@@ -12,25 +12,29 @@ import csv
 
 #This function scrapes gas price data from an EIA table and writes it to a csv.
 def GasPrices():
-    csvName = "GasPrices.csv"
+# We define the URL we will scrape the data from.
     url = "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmru_pte_nus_dpg&f=m"
     page = requests.get(url)
     
+# Using BeautifulSoup, we find the table we want within the html code and pull the records.
     soup = BeautifulSoup(page.text, "xml")
-    
     table = soup.findAll("table")[5]
     all_TR = table.findAll("tr")
+    
+# We create the csv file we will write the data to. 
+    csvName = "GasPrices.csv"
     csvFile = open(csvName,"wt")
     gaspricewriter = csv.writer(csvFile, delimiter = ',')
     gaspricewriter.writerow(['Year','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'])
     
-    
+# We populate the csv with data from the table and close the file.     
     for nextTR in all_TR:
         csvRow = []
         for nextTD in nextTR.findAll("td"):
             csvRow.append(nextTD.text.strip())
-        gaspricewriter.writerow(csvRow)
+        gaspricewriter.writerow(csvRow)  
         
+# We close the csv file.        
     csvFile.close()
      
 GasPrices()
