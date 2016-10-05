@@ -68,6 +68,15 @@ def WeatherUnclean():
     with open("data_cleanliness.txt", 'a') as cleanliness:
         cleanliness.write("Total records: " + str(totalRecords) + "\n\n")
     
+    # Define function for checking if a string is a float
+    # Source: http://stackoverflow.com/questions/5956240/check-if-string-is-a-real-number
+    def isfloat(str):
+        try: 
+            float(str)
+        except ValueError: 
+            return False
+        return True
+    
     # Define columns for which we want to check cleanliness
     columns = ['Avg Temp', 'Avg Wind', 'Precip']
     
@@ -78,7 +87,7 @@ def WeatherUnclean():
         nullRecordsCount = len(dataframe[nullRecords])
         
         # Count non-numeric values
-        numeric = dataframe.applymap(np.isreal)
+        numeric = dataframe.applymap(isfloat)
         nonNumeric = numeric[column] != True
         nonNumericCount = len(numeric[nonNumeric])
             
@@ -110,7 +119,7 @@ def BikeshareUnclean():
         cleanliness.write("Total records: " + str(totalRecords) + "\n\n")
     
     # Define columns for which we want to check cleanliness
-    columns = ['Station ID', 'Name', 'Latitude', 'Longitude', 'Number of Bikes', 'Number of Empty Docks']
+    columns = ['Station ID', 'Latitude', 'Longitude', 'Number of Bikes', 'Number of Empty Docks']
     
     for column in columns:
         
@@ -136,7 +145,28 @@ def BikeshareUnclean():
             cleanliness.write("Fraction of noise values for " + column + ": " + str(nonNumericCount/totalRecords) + "\n")
             cleanliness.write("Total invalid records for " + column + ": " + str(totalInvalid) + "\n")            
             cleanliness.write(column + " Score for " + column + " = " + str(totalInvalid) + "/" + str(totalRecords) + " = " + str(rounded_score) + "%\n\n")
-
+    
+    # Define additional columns for which we want to check cleanliness
+    columns2 = ['Name']
+    
+    for column in columns2:
+        
+        # Count null records
+        nullRecords = dataframe[column].isnull()
+        nullRecordsCount = len(dataframe[nullRecords])
+        
+        # Count total number of invalid records per attribute and get final scores
+        totalInvalid = nullRecordsCount
+        score = (totalInvalid/totalRecords)*100
+        rounded_score = float("{0:.2f}".format(score))
+        
+        # Write scoring to file
+        with open("data_cleanliness.txt", 'a') as cleanliness:
+            cleanliness.write("Number of missing values for " + column + ": " + str(nullRecordsCount) + "\n")
+            cleanliness.write("Fraction of missing values for " + column + ": " + str(nullRecordsCount/totalRecords) + "\n")
+            cleanliness.write("Total invalid records for " + column + ": " + str(totalInvalid) + "\n")            
+            cleanliness.write(column + " Score for " + column + " = " + str(totalInvalid) + "/" + str(totalRecords) + " = " + str(rounded_score) + "%\n\n")
+    
 # Create function to check and describe Census data (un)cleanliness
 def CensusUnclean():
     
@@ -151,7 +181,7 @@ def CensusUnclean():
         cleanliness.write("Total records: " + str(totalRecords) + "\n\n")
     
     # Define columns for which we want to check cleanliness
-    columns = ['Census Tract', 'State']
+    columns = ['Census Tract']
     
     for column in columns:
         
@@ -177,7 +207,29 @@ def CensusUnclean():
             cleanliness.write("Fraction of noise values for " + column + ": " + str(nonNumericCount/totalRecords) + "\n")
             cleanliness.write("Total invalid records for " + column + ": " + str(totalInvalid) + "\n")            
             cleanliness.write(column + " Score for " + column + " = " + str(totalInvalid) + "/" + str(totalRecords) + " = " + str(rounded_score) + "%\n\n")
+    
+    # Define additional columns for which we want to check cleanliness
+    columns2 = ['State']
+    
+    for column in columns2:
+        
+        # Count null records
+        nullRecords = dataframe[column].isnull()
+        nullRecordsCount = len(dataframe[nullRecords])
+        
+        # Count total number of invalid records per attribute and get final scores
+        totalInvalid = nullRecordsCount
+        score = (totalInvalid/totalRecords)*100
+        rounded_score = float("{0:.2f}".format(score))
+        
+        # Write scoring to file
+        with open("data_cleanliness.txt", 'a') as cleanliness:
+            cleanliness.write("Number of missing values for " + column + ": " + str(nullRecordsCount) + "\n")
+            cleanliness.write("Fraction of missing values for " + column + ": " + str(nullRecordsCount/totalRecords) + "\n")
+            cleanliness.write("Total invalid records for " + column + ": " + str(totalInvalid) + "\n")            
+            cleanliness.write(column + " Score for " + column + " = " + str(totalInvalid) + "/" + str(totalRecords) + " = " + str(rounded_score) + "%\n\n")
 
+    
 # Call cleanliness assessment functions
 GasPriceUnclean()
 WeatherUnclean()
