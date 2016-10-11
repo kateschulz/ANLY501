@@ -350,7 +350,7 @@ def WeatherUnclean():
         nullRecordsCount = len(dataframe[nullRecords])
         
         # Count non-numeric values
-        numeric = dataframe.applymap(np.isreal)
+        numeric = dataframe.applymap(isfloat)
         nonNumeric = numeric[column] != True
         nonNumericCount = len(numeric[nonNumeric])
             
