@@ -1,0 +1,101 @@
+Duration (ms),Start date,End date,Start station number,Start station,End station number,End station,Bike number,Member Type
+301295,3/31/2016 23:59,4/1/2016 0:04,31280,11th & S St NW,31506,1st & Rhode Island Ave NW,W00022,Registered
+557887,3/31/2016 23:59,4/1/2016 0:08,31275,New Hampshire Ave & 24th St NW,31114,18th St & Wyoming Ave NW,W01294,Registered
+555944,3/31/2016 23:59,4/1/2016 0:08,31101,14th & V St NW,31221,18th & M St NW,W01416,Registered
+766916,3/31/2016 23:57,4/1/2016 0:09,31226,34th St & Wisconsin Ave NW,31214,17th & Corcoran St NW,W01090,Registered
+139656,3/31/2016 23:57,3/31/2016 23:59,31011,23rd & Crystal Dr,31009,27th & Crystal Dr,W21934,Registered
+967713,3/31/2016 23:57,4/1/2016 0:13,31266,11th & M St NW,31600,5th & K St NW,W20562,Casual
+534836,3/31/2016 23:57,4/1/2016 0:06,31222,New York Ave & 15th St NW,31278,18th & R St NW,W20222,Registered
+243864,3/31/2016 23:56,4/1/2016 0:00,31228,8th & H St NW,31600,5th & K St NW,W20291,Registered
+372524,3/31/2016 23:55,4/1/2016 0:01,31113,Columbia Rd & Belmont St NW,31234,20th & O St NW / Dupont South,W20590,Registered
+215194,3/31/2016 23:55,3/31/2016 23:59,31263,10th & K St NW,31265,5th St & Massachusetts Ave NW,W21876,Registered
+498903,3/31/2016 23:55,4/1/2016 0:03,31243,Maryland & Independence Ave SW,31209,1st & N St  SE,W20973,Registered
+389082,3/31/2016 23:54,4/1/2016 0:01,31079,Lee Hwy & N Cleveland St,31093,21st St N & N Pierce St,W01197,Registered
+1680745,3/31/2016 23:54,4/1/2016 0:22,31258,Lincoln Memorial,31269,3rd St & Pennsylvania Ave SE,W01191,Casual
+1687026,3/31/2016 23:54,4/1/2016 0:23,31258,Lincoln Memorial,31269,3rd St & Pennsylvania Ave SE,W20449,Casual
+544541,3/31/2016 23:53,4/1/2016 0:02,31245,7th & R St NW / Shaw Library,31505,Eckington Pl & Q St NE,W20888,Registered
+1001144,3/31/2016 23:51,4/1/2016 0:08,31106,Calvert & Biltmore St NW,31226,34th St & Wisconsin Ave NW,W22196,Casual
+1262663,3/31/2016 23:51,4/1/2016 0:12,31111,10th & U St NW,31226,34th St & Wisconsin Ave NW,W21553,Casual
+451821,3/31/2016 23:51,3/31/2016 23:59,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31617,Bladensburg Rd & Benning Rd NE,W20614,Registered
+305172,3/31/2016 23:50,3/31/2016 23:55,31269,3rd St & Pennsylvania Ave SE,31639,2nd & G St NE,W22068,Registered
+5230964,3/31/2016 23:50,4/1/2016 1:17,31248,Smithsonian / Jefferson Dr & 12th St SW,31248,Smithsonian / Jefferson Dr & 12th St SW,W01458,Casual
+5226179,3/31/2016 23:50,4/1/2016 1:17,31248,Smithsonian / Jefferson Dr & 12th St SW,31248,Smithsonian / Jefferson Dr & 12th St SW,W22256,Casual
+534398,3/31/2016 23:51,3/31/2016 23:59,31106,Calvert & Biltmore St NW,31278,18th & R St NW,W21441,Casual
+611293,3/31/2016 23:49,3/31/2016 23:59,31230,Metro Center / 12th & G St NW,31212,21st & M St NW,W00928,Registered
+1782313,3/31/2016 23:48,4/1/2016 0:18,31602,Park Rd & Holmead Pl NW,31258,Lincoln Memorial,W20734,Registered
+1772821,3/31/2016 23:48,4/1/2016 0:18,31602,Park Rd & Holmead Pl NW,31258,Lincoln Memorial,W00353,Registered
+173074,3/31/2016 23:45,3/31/2016 23:48,31019,Wilson Blvd & N Edgewood St,31079,Lee Hwy & N Cleveland St,W00719,Registered
+412372,3/31/2016 23:45,3/31/2016 23:52,31202,14th & R St NW,31114,18th St & Wyoming Ave NW,W20924,Registered
+401291,3/31/2016 23:45,3/31/2016 23:52,31202,14th & R St NW,31114,18th St & Wyoming Ave NW,W20768,Registered
+617906,3/31/2016 23:45,3/31/2016 23:56,31234,20th & O St NW / Dupont South,31117,15th & Euclid St  NW,W00613,Registered
+527203,3/31/2016 23:44,3/31/2016 23:53,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31208,M St & New Jersey Ave SE,W01039,Casual
+360184,3/31/2016 23:44,3/31/2016 23:50,31275,New Hampshire Ave & 24th St NW,31200,Massachusetts Ave & Dupont Circle NW,W01413,Registered
+1451272,3/31/2016 23:43,4/1/2016 0:07,31212,21st & M St NW,31508,Gallaudet / 8th St & Florida Ave NE,W21112,Registered
+241782,3/31/2016 23:43,3/31/2016 23:47,31280,11th & S St NW,31120,10th & Florida Ave NW,W21794,Registered
+3664705,3/31/2016 23:43,4/1/2016 0:44,31271,Constitution Ave & 2nd St NW/DOL,31271,Constitution Ave & 2nd St NW/DOL,W00931,Casual
+3650201,3/31/2016 23:44,4/1/2016 0:44,31271,Constitution Ave & 2nd St NW/DOL,31271,Constitution Ave & 2nd St NW/DOL,W01182,Casual
+668788,3/31/2016 23:42,3/31/2016 23:53,31402,14th St Heights / 14th & Crittenden St NW,31119,14th & Belmont St NW,W20811,Registered
+1336707,3/31/2016 23:41,4/1/2016 0:03,31518,New York Ave & Hecht Ave NE,31623,Columbus Circle / Union Station,W20508,Casual
+308155,3/31/2016 23:41,3/31/2016 23:47,31102,11th & Kenyon St NW,31107,Lamont & Mt Pleasant NW,W20765,Registered
+407191,3/31/2016 23:40,3/31/2016 23:47,31512,Neal St & Trinidad Ave NE,31512,Neal St & Trinidad Ave NE,W20403,Registered
+657029,3/31/2016 23:40,3/31/2016 23:51,31035,N Quincy St & Glebe Rd,31028,N Veitch & Key Blvd,W00726,Registered
+950426,3/31/2016 23:39,3/31/2016 23:54,31258,Lincoln Memorial,31203,14th & Rhode Island Ave NW,W00991,Casual
+2246088,3/31/2016 23:39,4/1/2016 0:16,31258,Lincoln Memorial,31039,N Quincy St & Wilson Blvd,W00699,Casual
+1015357,3/31/2016 23:38,3/31/2016 23:55,31258,Lincoln Memorial,31203,14th & Rhode Island Ave NW,W20897,Casual
+372349,3/31/2016 23:38,3/31/2016 23:45,31602,Park Rd & Holmead Pl NW,31101,14th & V St NW,W21418,Registered
+186679,3/31/2016 23:37,3/31/2016 23:40,31119,14th & Belmont St NW,31105,14th & Harvard St NW,W22132,Registered
+3322606,3/31/2016 23:37,4/1/2016 0:32,31225,C & O Canal & Wisconsin Ave NW,31112,Harvard St & Adams Mill Rd NW,W20891,Casual
+504404,3/31/2016 23:37,3/31/2016 23:46,31220,US Dept of State / Virginia Ave & 21st St NW,31233,17th & K St NW / Farragut Square,W20065,Registered
+3299956,3/31/2016 23:37,4/1/2016 0:32,31225,C & O Canal & Wisconsin Ave NW,31112,Harvard St & Adams Mill Rd NW,W00670,Casual
+177476,3/31/2016 23:37,3/31/2016 23:40,31238,14th & G St NW,31274,MLK Library/9th & G St NW,W22168,Registered
+2317218,3/31/2016 23:36,4/1/2016 0:14,31400,Georgia & New Hampshire Ave NW,31116,California St & Florida Ave NW,W22180,Casual
+252310,3/31/2016 23:36,3/31/2016 23:40,31602,Park Rd & Holmead Pl NW,31401,14th St & Spring Rd NW,W20709,Registered
+718807,3/31/2016 23:37,3/31/2016 23:49,31212,21st & M St NW,31119,14th & Belmont St NW,W21686,Registered
+450308,3/31/2016 23:35,3/31/2016 23:42,31101,14th & V St NW,31602,Park Rd & Holmead Pl NW,W01233,Registered
+209808,3/31/2016 23:35,3/31/2016 23:39,31203,14th & Rhode Island Ave NW,31267,17th St & Massachusetts Ave NW,W00443,Registered
+986798,3/31/2016 23:34,3/31/2016 23:50,31230,Metro Center / 12th & G St NW,31225,C & O Canal & Wisconsin Ave NW,W22243,Registered
+384131,3/31/2016 23:33,3/31/2016 23:39,31712,Oklahoma Ave & D St NE,31622,13th & D St NE,W20173,Registered
+545616,3/31/2016 23:32,3/31/2016 23:41,31239,17th & Rhode Island Ave NW,31263,10th & K St NW,W01043,Registered
+2111302,3/31/2016 23:32,4/1/2016 0:07,31204,20th & E St NW,31205,21st & I St NW,W22041,Casual
+179833,3/31/2016 23:31,3/31/2016 23:34,31623,Columbus Circle / Union Station,31616,3rd & H St NE,W20445,Registered
+531654,3/31/2016 23:30,3/31/2016 23:39,31274,MLK Library/9th & G St NW,31241,Thomas Circle,w01100,Registered
+282858,3/31/2016 23:29,3/31/2016 23:34,31603,1st & M St NE,31603,1st & M St NE,W21562,Registered
+1789221,3/31/2016 23:29,3/31/2016 23:59,31247,Jefferson Dr & 14th St SW,31247,Jefferson Dr & 14th St SW,W20351,Registered
+1791714,3/31/2016 23:29,3/31/2016 23:59,31247,Jefferson Dr & 14th St SW,31247,Jefferson Dr & 14th St SW,W21938,Casual
+1612747,3/31/2016 23:28,3/31/2016 23:55,31634,3rd & Tingey St SE,31275,New Hampshire Ave & 24th St NW,W21372,Registered
+796620,3/31/2016 23:28,3/31/2016 23:41,31233,17th & K St NW / Farragut Square,31207,Georgia Ave and Fairmont St NW,W01137,Registered
+3694307,3/31/2016 23:28,4/1/2016 0:30,31235,19th St & Constitution Ave NW,31279,19th & G St NW,W20240,Casual
+881534,3/31/2016 23:27,3/31/2016 23:41,31104,Adams Mill & Columbia Rd NW,31313,Connecticut Ave & Tilden St NW,W01160,Registered
+367713,3/31/2016 23:28,3/31/2016 23:34,31023,Fairfax Dr & Wilson Blvd,31035,N Quincy St & Glebe Rd,W00045,Registered
+1228436,3/31/2016 23:26,3/31/2016 23:46,31200,Massachusetts Ave & Dupont Circle NW,31628,1st & K St SE,W21341,Registered
+2515939,3/31/2016 23:26,4/1/2016 0:08,31265,5th St & Massachusetts Ave NW,31638,1st & H St NW,W00080,Registered
+194577,3/31/2016 23:26,3/31/2016 23:29,31084,Ballenger Ave & Dulaney St,31098,King St Metro North / Cameron St,W21214,Registered
+3790486,3/31/2016 23:26,4/1/2016 0:29,31235,19th St & Constitution Ave NW,31279,19th & G St NW,W01221,Casual
+1012862,3/31/2016 23:26,3/31/2016 23:43,31277,17th & G St NW,31623,Columbus Circle / Union Station,W01062,Registered
+3621785,3/31/2016 23:27,4/1/2016 0:27,31205,21st & I St NW,31257,22nd & I St NW / Foggy Bottom,W20323,Casual
+1035159,3/31/2016 23:25,3/31/2016 23:42,31241,Thomas Circle,31401,14th St & Spring Rd NW,W21086,Registered
+145413,3/31/2016 23:25,3/31/2016 23:27,31021,Clarendon Blvd & N Fillmore St,31089,Court House Metro / 15th & N Uhle St ,W21392,Registered
+278950,3/31/2016 23:25,3/31/2016 23:30,31089,Court House Metro / 15th & N Uhle St ,31027,Key Blvd & N Quinn St,W20961,Registered
+326538,3/31/2016 23:25,3/31/2016 23:31,31222,New York Ave & 15th St NW,31263,10th & K St NW,W21876,Registered
+847466,3/31/2016 23:25,3/31/2016 23:39,31258,Lincoln Memorial,31266,11th & M St NW,W21222,Registered
+761271,3/31/2016 23:24,3/31/2016 23:36,31117,15th & Euclid St  NW,31405,Georgia Ave & Emerson St NW,W21980,Registered
+538637,3/31/2016 23:24,3/31/2016 23:33,31111,10th & U St NW,31214,17th & Corcoran St NW,W21034,Registered
+3939264,3/31/2016 23:24,4/1/2016 0:30,31235,19th St & Constitution Ave NW,31279,19th & G St NW,W20161,Casual
+533104,3/31/2016 23:24,3/31/2016 23:33,31111,10th & U St NW,31214,17th & Corcoran St NW,W21803,Registered
+599707,3/31/2016 23:24,3/31/2016 23:34,31232,7th & F St NW / National Portrait Gallery,31108,4th & M St SW,W01474,Registered
+339354,3/31/2016 23:24,3/31/2016 23:30,31221,18th & M St NW,31237,25th St & Pennsylvania Ave NW,W20751,Registered
+4070218,3/31/2016 23:22,4/1/2016 0:30,31235,19th St & Constitution Ave NW,31279,19th & G St NW,W00505,Casual
+524412,3/31/2016 23:21,3/31/2016 23:30,31122,16th & Irving St NW,31404,9th & Upshur St NW,W01235,Registered
+194639,3/31/2016 23:21,3/31/2016 23:24,31238,14th & G St NW,31241,Thomas Circle,W21359,Registered
+781145,3/31/2016 23:21,3/31/2016 23:34,31200,Massachusetts Ave & Dupont Circle NW,31636,New Jersey Ave & N St NW/Dunbar HS,W01201,Registered
+483530,3/31/2016 23:20,3/31/2016 23:28,31109,7th & T St NW,31265,5th St & Massachusetts Ave NW,W20339,Registered
+1079192,3/31/2016 23:20,3/31/2016 23:38,31232,7th & F St NW / National Portrait Gallery,31118,3rd & Elm St NW,W20989,Registered
+1069124,3/31/2016 23:21,3/31/2016 23:38,31232,7th & F St NW / National Portrait Gallery,31118,3rd & Elm St NW,W21651,Registered
+515873,3/31/2016 23:19,3/31/2016 23:28,31111,10th & U St NW,31603,1st & M St NE,W21992,Registered
+766683,3/31/2016 23:19,3/31/2016 23:32,31263,10th & K St NW,31272,Washington & Independence Ave SW/HHS,W00209,Registered
+1194712,3/31/2016 23:18,3/31/2016 23:38,31202,14th & R St NW,31611,13th & H St NE,W00193,Registered
+191218,3/31/2016 23:18,3/31/2016 23:21,31631,8th & F St NE,31623,Columbus Circle / Union Station,W20445,Registered
+1579063,3/31/2016 23:18,3/31/2016 23:44,31016,Clarendon Blvd & Pierce St,31079,Lee Hwy & N Cleveland St,W01197,Registered
+160298,3/31/2016 23:18,3/31/2016 23:21,31260,23rd & E St NW ,31275,New Hampshire Ave & 24th St NW,W20818,Registered
+217738,3/31/2016 23:18,3/31/2016 23:22,31236,37th & O St NW / Georgetown University,31312,Wisconsin Ave & O St NW,W21556,Registered
+508598,3/31/2016 23:18,3/31/2016 23:27,32014,Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir,31310,Connecticut & Nebraska Ave NW,W21154,Registered

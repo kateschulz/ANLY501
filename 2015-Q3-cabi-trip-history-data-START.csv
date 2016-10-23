@@ -1,0 +1,101 @@
+Duration (ms),Start date,End date,Start station number,Start station,End station number,End station,Bike #,Member type
+257866,7/1/2015 0:00,7/1/2015 0:04,31116,California St & Florida Ave NW,31117,15th & Euclid St  NW,W21516,Registered
+2683934,7/1/2015 0:00,7/1/2015 0:45,31247,Jefferson Dr & 14th St SW,31247,Jefferson Dr & 14th St SW,W00476,Casual
+2349547,7/1/2015 0:02,7/1/2015 0:41,31247,Jefferson Dr & 14th St SW,31247,Jefferson Dr & 14th St SW,W20384,Casual
+826571,7/1/2015 0:02,7/1/2015 0:16,31229,New Hampshire Ave & T St NW,31602,Park Rd & Holmead Pl NW,W00972,Registered
+123046,7/1/2015 0:04,7/1/2015 0:06,31610,Eastern Market / 7th & North Carolina Ave SE,31269,3rd St & Pennsylvania Ave SE,W21565,Registered
+2176084,7/1/2015 0:05,7/1/2015 0:42,31258,Lincoln Memorial,31208,M St & New Jersey Ave SE,W21688,Casual
+2652620,7/1/2015 0:06,7/1/2015 0:50,31222,New York Ave & 15th St NW,31227,13th St & New York Ave NW,W21741,Casual
+1045864,7/1/2015 0:08,7/1/2015 0:25,31015,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31035,N Quincy St & Glebe Rd,W21572,Registered
+2481165,7/1/2015 0:08,7/1/2015 0:50,31222,New York Ave & 15th St NW,31227,13th St & New York Ave NW,W00700,Casual
+114563,7/1/2015 0:08,7/1/2015 0:10,31610,Eastern Market / 7th & North Carolina Ave SE,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,W20468,Registered
+1192919,7/1/2015 0:02,7/1/2015 0:22,31245,7th & R St NW / Shaw Library,31630,15th & East Capitol St NE,W21272,Registered
+879164,7/1/2015 0:10,7/1/2015 0:25,31268,12th & U St NW,31639,2nd & G St NE,W21240,Registered
+218666,7/1/2015 0:11,7/1/2015 0:15,31623,Columbus Circle / Union Station,31615,6th & H St NE,W22105,Registered
+1203731,7/1/2015 0:12,7/1/2015 0:32,31228,8th & H St NW,31103,16th & Harvard St NW,W00441,Registered
+243332,7/1/2015 0:12,7/1/2015 0:16,31022,Clarendon Metro / Wilson Blvd & N Highland St,31089,Court House Metro / 15th & N Uhle St ,W21438,Registered
+889529,7/1/2015 0:12,7/1/2015 0:27,31101,14th & V St NW,31103,16th & Harvard St NW,W21469,Registered
+913694,7/1/2015 0:12,7/1/2015 0:28,31247,Jefferson Dr & 14th St SW,31247,Jefferson Dr & 14th St SW,W00278,Casual
+848983,7/1/2015 0:13,7/1/2015 0:27,31247,Jefferson Dr & 14th St SW,31247,Jefferson Dr & 14th St SW,W21198,Casual
+851865,7/1/2015 0:14,7/1/2015 0:28,31268,12th & U St NW,31213,17th & K St NW,W21139,Casual
+3895394,7/1/2015 0:14,7/1/2015 1:19,31114,18th St & Wyoming Ave NW,31216,14th St & New York Ave NW,W01418,Casual
+654015,7/1/2015 0:14,7/1/2015 0:25,31203,14th & Rhode Island Ave NW,31218,L'Enfant Plaza / 7th & C St SW,W01305,Registered
+358974,7/1/2015 0:15,7/1/2015 0:21,31101,14th & V St NW,31116,California St & Florida Ave NW,W20614,Registered
+784658,7/1/2015 0:15,7/1/2015 0:28,31268,12th & U St NW,31213,17th & K St NW,W21711,Casual
+398956,7/1/2015 0:15,7/1/2015 0:22,31102,11th & Kenyon St NW,31102,11th & Kenyon St NW,W20520,Registered
+906915,7/1/2015 0:15,7/1/2015 0:30,31222,New York Ave & 15th St NW,31307,3000 Connecticut Ave NW / National Zoo,W20727,Registered
+153912,7/1/2015 0:16,7/1/2015 0:18,31629,8th & East Capitol St NE,31618,4th & East Capitol St NE,W20200,Registered
+3745362,7/1/2015 0:17,7/1/2015 1:19,31114,18th St & Wyoming Ave NW,31216,14th St & New York Ave NW,W00390,Casual
+510476,7/1/2015 0:17,7/1/2015 0:25,31006,S Joyce & Army Navy Dr,31013,23rd & Eads St,W22014,Registered
+192331,7/1/2015 0:18,7/1/2015 0:21,31204,20th & E St NW,31204,20th & E St NW,W21689,Casual
+277696,7/1/2015 0:19,7/1/2015 0:24,31229,New Hampshire Ave & T St NW,31119,14th & Belmont St NW,W20122,Registered
+781786,7/1/2015 0:20,7/1/2015 0:33,31600,5th & K St NW,31512,Neal St & Trinidad Ave NE,W00694,Registered
+582623,7/1/2015 0:21,7/1/2015 0:30,31312,Wisconsin Ave & O St NW,31214,17th & Corcoran St NW,W00721,Registered
+623135,7/1/2015 0:21,7/1/2015 0:31,31627,M St & Delaware Ave NE,31244,4th & E St SW,W20259,Registered
+306174,7/1/2015 0:21,7/1/2015 0:26,31103,16th & Harvard St NW,31113,Columbia Rd & Belmont St NW,W22206,Registered
+266725,7/1/2015 0:22,7/1/2015 0:27,31016,Clarendon Blvd & Pierce St,31017,Wilson Blvd & N Uhle St,W00130,Registered
+384649,7/1/2015 0:23,7/1/2015 0:29,31611,13th & H St NE,31630,15th & East Capitol St NE,W20409,Registered
+336438,7/1/2015 0:23,7/1/2015 0:29,31607,14th & D St SE,31618,4th & East Capitol St NE,W20880,Registered
+454246,7/1/2015 0:24,7/1/2015 0:31,31255,24th & N St NW,31203,14th & Rhode Island Ave NW,W21874,Registered
+125729,7/1/2015 0:26,7/1/2015 0:28,31104,Adams Mill & Columbia Rd NW,31103,16th & Harvard St NW,W20444,Registered
+3140646,7/1/2015 0:27,7/1/2015 1:19,31114,18th St & Wyoming Ave NW,31216,14th St & New York Ave NW,W20797,Casual
+134411,7/1/2015 0:29,7/1/2015 0:31,31217,USDA / 12th & Independence Ave SW,31217,USDA / 12th & Independence Ave SW,W22236,Casual
+1198290,7/1/2015 0:30,7/1/2015 0:50,31708,Anacostia Ave & Benning Rd NE / River Terrace ,31635,Potomac Ave & 8th St SE,W21444,Registered
+1042095,7/1/2015 0:31,7/1/2015 0:48,31623,Columbus Circle / Union Station,31607,14th & D St SE,W01368,Registered
+185429,7/1/2015 0:31,7/1/2015 0:34,32045,Shady Grove Metro West,32037,King Farm Blvd & Pleasant Dr,W20282,Registered
+1007935,7/1/2015 0:33,7/1/2015 0:50,31217,USDA / 12th & Independence Ave SW,31208,M St & New Jersey Ave SE,W21320,Casual
+1011108,7/1/2015 0:33,7/1/2015 0:50,31217,USDA / 12th & Independence Ave SW,31208,M St & New Jersey Ave SE,W22236,Casual
+405221,7/1/2015 0:35,7/1/2015 0:42,31024,Virginia Square Metro / N Monroe St & 9th St N,31069,Pershing & N George Mason Dr,W01057,Registered
+183493,7/1/2015 0:35,7/1/2015 0:39,31266,11th & M St NW,31203,14th & Rhode Island Ave NW,W21899,Registered
+622159,7/1/2015 0:39,7/1/2015 0:49,31102,11th & Kenyon St NW,31400,Georgia & New Hampshire Ave NW,W01192,Registered
+3065757,7/1/2015 0:42,7/1/2015 1:33,31258,Lincoln Memorial,31634,3rd & Tingey St SE,W00819,Registered
+3038495,7/1/2015 0:42,7/1/2015 1:33,31258,Lincoln Memorial,31634,3rd & Tingey St SE,W00481,Registered
+1115368,7/1/2015 0:43,7/1/2015 1:02,31119,14th & Belmont St NW,31105,14th & Harvard St NW,W20702,Registered
+579033,7/1/2015 0:44,7/1/2015 0:54,31212,21st & M St NW,31014,Lynn & 19th St North,W20990,Registered
+194360,7/1/2015 0:45,7/1/2015 0:48,31313,Connecticut Ave & Tilden St NW,31305,Connecticut Ave & Newark St NW / Cleveland Park,W00161,Registered
+405751,7/1/2015 0:47,7/1/2015 0:53,31203,14th & Rhode Island Ave NW,31600,5th & K St NW,W21899,Registered
+467715,7/1/2015 0:47,7/1/2015 0:55,31020,Wilson Blvd & Franklin Rd,31033,Wilson Blvd & N Oakland St,W20457,Registered
+230290,7/1/2015 0:47,7/1/2015 0:51,31203,14th & Rhode Island Ave NW,31214,17th & Corcoran St NW,W00685,Registered
+586212,7/1/2015 0:49,7/1/2015 0:58,31203,14th & Rhode Island Ave NW,31506,1st & Rhode Island Ave NW,W21764,Registered
+281463,7/1/2015 0:51,7/1/2015 0:55,31109,7th & T St NW,31506,1st & Rhode Island Ave NW,W22040,Registered
+370096,7/1/2015 0:55,7/1/2015 1:01,31252,21st St & Pennsylvania Ave NW,31214,17th & Corcoran St NW,W00586,Registered
+612004,7/1/2015 1:14,7/1/2015 1:24,31233,17th & K St NW / Farragut Square,31247,Jefferson Dr & 14th St SW,W00718,Casual
+1051317,7/1/2015 1:25,7/1/2015 1:42,31247,Jefferson Dr & 14th St SW,31261,21st St & Constitution Ave NW,W00476,Casual
+1516769,7/1/2015 1:51,7/1/2015 2:17,31611,13th & H St NE,31116,California St & Florida Ave NW,W21678,Registered
+636809,7/1/2015 2:02,7/1/2015 2:12,31261,21st St & Constitution Ave NW,31221,18th & M St NW,W00476,Casual
+141397,7/1/2015 2:10,7/1/2015 2:12,31037,Ballston Metro / N Stuart & 9th St N,31034,N Randolph St & Fairfax Dr,W20907,Casual
+467962,7/1/2015 2:15,7/1/2015 2:23,31620,5th & F St NW,31623,Columbus Circle / Union Station,W00384,Registered
+728656,7/1/2015 2:18,7/1/2015 2:30,31621,4th & D St NW / Judiciary Square,31269,3rd St & Pennsylvania Ave SE,W22204,Registered
+974407,7/1/2015 2:20,7/1/2015 2:37,31213,17th & K St NW,31506,1st & Rhode Island Ave NW,W21711,Registered
+451967,7/1/2015 2:36,7/1/2015 2:43,31614,11th & H St NE,31629,8th & East Capitol St NE,W20355,Registered
+1205311,7/1/2015 2:49,7/1/2015 3:09,31623,Columbus Circle / Union Station,31119,14th & Belmont St NW,W00384,Casual
+244253,7/1/2015 2:57,7/1/2015 3:01,31615,6th & H St NE,31611,13th & H St NE,W00321,Registered
+758130,7/1/2015 3:12,7/1/2015 3:25,31082,Eisenhower Ave & Mill Race Ln,31082,Eisenhower Ave & Mill Race Ln,W21672,Casual
+411781,7/1/2015 3:53,7/1/2015 4:00,31804,Anacostia Library,31805,Pennsylvania & Minnesota Ave SE,W21998,Registered
+481260,7/1/2015 3:54,7/1/2015 4:02,31104,Adams Mill & Columbia Rd NW,31305,Connecticut Ave & Newark St NW / Cleveland Park,W21765,Registered
+565888,7/1/2015 4:22,7/1/2015 4:32,31300,Van Ness Metro / UDC,31302,Wisconsin Ave & Newark St NW,W00913,Registered
+205600,7/1/2015 4:45,7/1/2015 4:48,31604,3rd & H St NW,31624,North Capitol St & F St NW,W20754,Registered
+361370,7/1/2015 4:50,7/1/2015 4:56,31266,11th & M St NW,31120,10th & Florida Ave NW,W00565,Registered
+739748,7/1/2015 4:50,7/1/2015 5:03,31225,C & O Canal & Wisconsin Ave NW,31051,Arlington Blvd & N Queen St,W20435,Registered
+457807,7/1/2015 4:54,7/1/2015 5:01,31209,1st & N St  SE,31608,8th & Eye St SE / Barracks Row,W20095,Casual
+227086,7/1/2015 4:57,7/1/2015 5:01,31619,Lincoln Park / 13th & East Capitol St NE ,31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,W00028,Registered
+168041,7/1/2015 4:57,7/1/2015 5:00,31234,20th & O St NW / Dupont South,31224,19th & L St NW,W20771,Registered
+912258,7/1/2015 4:58,7/1/2015 5:13,31209,1st & N St  SE,31625,3rd & G St SE,W00138,Registered
+159979,7/1/2015 4:59,7/1/2015 5:02,32037,King Farm Blvd & Pleasant Dr,32045,Shady Grove Metro West,W21102,Registered
+1111894,7/1/2015 5:03,7/1/2015 5:21,31601,19th & East Capitol St SE,31627,M St & Delaware Ave NE,W21823,Registered
+337453,7/1/2015 5:03,7/1/2015 5:08,31107,Lamont & Mt Pleasant NW,31103,16th & Harvard St NW,W20924,Registered
+1360431,7/1/2015 5:04,7/1/2015 5:27,31612,D St & Maryland Ave NE,31258,Lincoln Memorial,W20574,Registered
+172469,7/1/2015 5:06,7/1/2015 5:09,32026,Carroll & Ethan Allen Ave,32025,Carroll & Westmoreland Ave,W00876,Registered
+1155350,7/1/2015 5:08,7/1/2015 5:27,31269,3rd St & Pennsylvania Ave SE,31258,Lincoln Memorial,W20633,Casual
+712395,7/1/2015 5:10,7/1/2015 5:22,31228,8th & H St NW,31239,17th & Rhode Island Ave NW,W00897,Registered
+732983,7/1/2015 5:13,7/1/2015 5:26,31625,3rd & G St SE,31228,8th & H St NW,W21015,Registered
+774190,7/1/2015 5:15,7/1/2015 5:28,31251,12th & L St NW,31260,23rd & E St NW ,W00961,Registered
+516024,7/1/2015 5:16,7/1/2015 5:24,31104,Adams Mill & Columbia Rd NW,31275,New Hampshire Ave & 24th St NW,W21618,Registered
+327093,7/1/2015 5:17,7/1/2015 5:22,31015,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31314,34th & Water St NW,W22108,Registered
+165785,7/1/2015 5:17,7/1/2015 5:20,31024,Virginia Square Metro / N Monroe St & 9th St N,31025,Central Library / N Quincy St & 10th St N,W00058,Registered
+855406,7/1/2015 5:17,7/1/2015 5:32,31266,11th & M St NW,31258,Lincoln Memorial,W21698,Registered
+320614,7/1/2015 5:18,7/1/2015 5:23,31119,14th & Belmont St NW,31201,15th & P St NW,W20992,Registered
+612237,7/1/2015 5:18,7/1/2015 5:28,31102,11th & Kenyon St NW,31251,12th & L St NW,W00204,Registered
+1394662,7/1/2015 5:18,7/1/2015 5:41,31508,Gallaudet / 8th St & Florida Ave NE,31200,Massachusetts Ave & Dupont Circle NW,W21001,Registered
+168269,7/1/2015 5:19,7/1/2015 5:22,31117,15th & Euclid St  NW,31105,14th & Harvard St NW,W01277,Registered
+589366,7/1/2015 5:21,7/1/2015 5:30,31107,Lamont & Mt Pleasant NW,31201,15th & P St NW,W00782,Registered
