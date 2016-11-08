@@ -11,7 +11,7 @@ import pandas as pd
 from fim import apriori
 
 # Read in Bikeshare data (need to not hardcode this)
-Q1_2016 = pd.read_csv("/Users/kateschulz/Desktop/2016-Q1-Trips-History-Data-START.csv")
+Q1_2016 = pd.read_csv("2016-Q1-Trips-History-Data.csv")
 
 # Delete columns irrelevant for apriori (all but the Start station and End station)
 delcols = ["Duration (ms)", "Start date", "End date", "Start station number", "End station number","Bike number", "Member Type"]
@@ -31,13 +31,13 @@ with open('AprioriTest2.txt', 'r') as file:
             matrix.append(list(map(str, line.split(','))))
 
 # Call apriori for the association rule 
-minsup = [10,30,40]
-minconf = [20,30,40]
+minsup = [3,4,5]
+minconf = 3
 for x in range(0,3):
-    for y in range(0,3):
-        print("minsup =",minsup[x])
-        print("minconf =",minconf[y])
-        print(apriori(matrix, target = 'r', supp = minsup[x], conf = minconf[y]))
+    print("minsup =",minsup[x])
+    print("minconf =",minconf)
+    print(apriori(matrix, target = 'r', zmin=2, supp = minsup[x], conf = minconf))
+
 
 
 
